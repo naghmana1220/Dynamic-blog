@@ -21,7 +21,7 @@ const Latest = async () => {
   return (
     <div className="mx-auto max-w-[1000px] mt-10 px-3">
         {/* Heading */}
-        <h1 className="font-bold text-4xl md:text-5xl text-center md:text-left text-cyan-500">LATEST BLOGS</h1>
+        <h1 className="font-bold text-4xl md:text-5xl text-center md:text-left text-cyan-500">RECENT BLOGS</h1>
 
         {/* Big Box */}
         {blogs.length > 0 && (

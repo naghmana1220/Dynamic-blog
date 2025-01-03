@@ -23,9 +23,9 @@ const AI = async () => {
   if (!blogs || blogs.length === 0) {
       return (
           <div className="mx-auto max-w-[1000px] mt-20 px-3">
-              <h1 className="font-bold text-4xl md:text-5xl text-center md:text-left text-cyan-500">
+              {/* <h1 className="font-bold text-4xl md:text-5xl text-center md:text-left text-cyan-500">
                   ARTIFICIAL INTELLIGENCE
-              </h1>
+              </h1> */}
              
           </div>
       );

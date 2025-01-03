@@ -23,7 +23,7 @@ const Header = () => {
           <Link href={"/"}><h1 className="text-center text-[32px] uppercase tracking-[6px] pt-[30px] hidden md:block font-bold text-cyan-500">MyBlogs</h1></Link>
         </div>  */}
 
-        <div className="mx-auto items-center justify-between px-3 mt-[40px] pb-2 border-b-2 tracking-wider hidden md:flex">
+        <div className="mx-auto items-center justify-center px-3 mt-[40px] pb-2 border-b-2 tracking-wider hidden md:flex">
           {/* Navbar */}
           <nav className="flex justify-center">
           <ul className="hidden md:flex gap-6 text-cyan-400">

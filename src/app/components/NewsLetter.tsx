@@ -5,7 +5,7 @@ const NewsLetter = () => {
     return (
     <div className="mx-auto max-w-[1000px] mt-10 px-2">
          {/* Heading */}
-        <h1 className="text-4xl md:text-5xl text-center md:text-left text-cyan-500 font-serif">We Value Your Feedback</h1>
+        <h1 className="text-4xl md:text-5xl text-center md:text-left text-cyan-500 font-bold">We Value Your Feedback</h1>
 
          {/* Content */}
         <div className="flex flex-col md:flex-row items-center text-center md:text-start gap-10 mt-4 ">

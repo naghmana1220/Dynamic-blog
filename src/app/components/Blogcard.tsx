@@ -30,7 +30,7 @@ function BlogCard({image,title,shortDesc,tags,author,uploadDate,category,id}:{im
                 <Clock/>
                 <span>{uploadDate}</span>
             </div>
-            <Link href={`/blogs/${id}`}><Button variant={"link"} className='text-white text-lg'>Read More</Button></Link>
+            <Link href={`/${id}`}><Button variant={"link"} className='text-white text-lg'>Read More</Button></Link>
         </div>
         
     </div>

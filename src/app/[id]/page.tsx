@@ -83,7 +83,7 @@ async function Blog({params} : {params: {id: string}}) {
 
                
 
-                <p className="mt-6 justify-center text-white"><h1 className="text-black text-2xl font-serif">Deep Learning and Machine learning in Artificial Intelligence</h1>
+                <div className="mt-6 justify-center text-white"><h1 className="text-black text-2xl font-serif">Deep Learning and Machine learning in Artificial Intelligence</h1>
 Deep learning is a transformative branch of artificial intelligence (AI) that mimics the neural architecture of the human brain through artificial neural networks. It excels in processing large volumes of data and extracting complex patterns, enabling machines to perform tasks that traditionally require human intelligence. Deep learning has become a cornerstone of AI, driving innovation in various fields such as healthcare, finance, entertainment, and autonomous systems.
 
 How Deep Learning Works
@@ -142,7 +142,7 @@ Deep learning continues to evolve, with innovations such as transfer learning, f
 
 In summary, deep learning is a driving force in artificial intelligence, enabling machines to achieve human-like capabilities in complex tasks. As technology advances, deep learning will continue to shape the future of AI, enhancing efficiency, creativity, and problem-solving across industries.
 
-</p>
+</div>
             </div>
 
 
